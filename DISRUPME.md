@@ -1,8 +1,9 @@
-# DDDDDD  II  SSSSSS  RRRRRR  UU   UU  PPPPPP
-# DD  DD  II  SS      RR  RR  UU   UU  PP  PP
-# DD  DD  II  SSSSSS  RRRRRR  UU   UU  PPPPPP
-# DD  DD  II      SS  RR RR   UU   UU  PP
-# DDDDDD   II  SSSSSS  RR  RR  UUUUUU  PP
+### DDDDDD--II--SSSSSS--RRRRRR--UU---UU--PPPPPP
+### DD--DD--II--SS------RR--RR--UU---UU--PP--PP
+### DD--DD--II--SSSSSS--RRRRRR--UU---UU--PPPPPP
+### DD--DD--II------SS--RR-RR---UU---UU--PP
+### DDDDDD--II--SSSSSS--RR--RR--UUUUUU---PP
+
 # AILMLM: Framework para la Mejora Continua Ética de IA/ML/LLM
 
 **AILMLM** es un framework poderoso y flexible diseñado para la optimización continua de modelos de Inteligencia Artificial (IA), Aprendizaje Automático (ML) y Modelos de Lenguaje de Gran Escala (LLM). [cite: 1, 2, 55, 56]
