@@ -1,7 +1,7 @@
 ### DDDDDD--II--SSSSSS--RRRRRR--UU---UU--PPPPPP
-### DD--DD--II--SS------RR--RR--UU---UU--PP--PP
-### DD--DD--II--SSSSSS--RRRRRR--UU---UU--PPPPPP
-### DD--DD--II------SS--RR-RR---UU---UU--PP
+### DD---DD--II--SS------RR--RR--UU---UU--PP--PP
+### DD---DD--II--SSSSSS--RRRRRR--UU---UU--PPPPPP
+### DD---DD--II------SS--RR-RR---UU---UU--PP
 ### DDDDDD--II--SSSSSS--RR--RR--UUUUUU---PP
 
 # AILMLM: Framework para la Mejora Continua Ética de IA/ML/LLM
